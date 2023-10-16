@@ -1,0 +1,18 @@
+{
+  "heading": "Ruhestandsplaner",
+  "description": "Geben Sie zuesrt Grundinformationen über Ihre Situation an und dann klicken Sie auf senden, um Ihre persönliches Ergebnis zu sehen.",
+  "yourInvestment": "Ihre Informationen",
+  "investhorizon": "Ihre Investitionhorizont",
+  "yearOld": "Jahre alt",
+  "saveAmountQuestion": "Wieviel beträgt Ihre Ertseinlage?",
+  "saveEachMonth": "Wie viel wollen Sie jeden Monat sparen?",
+  "submit": "Einreichen",
+  "yourOutcome": "IHR ERGEBNIS",
+  "aggressive": "AGGRESIV",
+  "conservative": "KONSERVATIV",
+  "todatInvestment": "Gesamtinvestition",
+  "retirementIncome": "Renteneinkommen",
+  "Recommended": "Empfohlen",
+  "seePolicyDetails": "Siehe Richtliniendetails",
+  "descriptionPolicy": "Die erwartete Investitionsquote ergibt sich aus einer proprietären Risikotragfähigkeitsanalyse und einem gewichteten Durchschnitt der erwarteten Aktien- und Anleiherenditen. Die Berechnung basiert auf Erwartungen und es gibt keine Garantie dafür, dass dies in der Zukunft der Fall sein wird."
+}

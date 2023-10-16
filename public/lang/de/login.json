@@ -1,0 +1,12 @@
+{
+    "emptyEmail": "E-Mail kann nicht leer sein",
+    "emptyPassword": "Passwort darf nicht leer sein",
+    "title": "Einloggen",
+    "subTitle": "Geben Sie Ihre E-Mail und Ihr Passwort ein, um sich anzumelden",
+    "forgotPassword": "Passwort vergessen?",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "or": "ODER",
+    "withFacebook": "Mit Facebook anmelden",
+    "withGoogle": "Mit Google anmelden"
+}

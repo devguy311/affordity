@@ -1,0 +1,11 @@
+{
+    "successResultMessage": "Profil erfolgreich aktualisiert",
+    "errorResultMessage": "Etwas ging schief",
+    "hello": "Hallo",
+    "restAssure": "Seien Sie versichert, dass alle von Ihnen gemachten Angaben vertraulich behandelt werden und nur dazu dienen, die Genauigkeit der von Ihnen erzielten Ergebnisse zu verbessern.",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätige",
+    "save": "Änderungen speichern",
+    "deleteAccount": "Konto löschen"
+}

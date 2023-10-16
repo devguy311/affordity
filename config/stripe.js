@@ -1,0 +1,9 @@
+export const STRIPE_SECRET_KEY = process.env.NEXT_STRIPE_SECRET_KEY ?? ''
+export const STRIPE_PUBLISHABLE_KEY = process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY ?? ''
+export const CHECKOUT_SUCCESS_URL = process.env.NEXT_PUBLIC_CHECKOUT_SUCCESS_URL ?? ''
+export const CHECKOUT_CANCEL_URL = process.env.NEXT_PUBLIC_CHECKOUT_CANCEL_URL ?? ''
+export const PORTAL_RETURN_URL = process.env.NEXT_PUBLIC_PORTAL_RETURN_URL ?? ''
+// export const STRIPE_WEBHOOK_SECRET = "whsec_f584fb12ae30579ba2aed549ac476aab5b41f2239c98d55697c8b4e485e29820"; // local
+export const STRIPE_WEBHOOK_SECRET = "whsec_KdxEBje1fzvMhu71RhJk8XmikdDu5aSr";
+export const BASIC_PRICE_ID = "price_1NW2V4C0vkTh4VdVHdIqEuMA";
+export const STANDARD_PRICE_ID = "price_1NW2VJC0vkTh4VdVYq6V5xyA";

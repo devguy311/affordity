@@ -1,0 +1,19 @@
+{
+  "extensionTitle": "Affordify für Chrome",
+  "extensionDescription": "Die affordify Chrome-Erweiterung bietet Ihnen live und personalisierte Budget-Beratung, während Sie Ihre Lieblings-Websites besuchen.",
+  "addToChrome": "kostenlos ausprobieren!",
+  "highlightTitle": "Ihr persönlicher Live-Budgetierungsassistent",
+  "highlightTitleDescription": "Markieren Sie einfach die Preise für Ihren nächsten Einkauf auf Ihrer Lieblingsseite und unsere Chrome-Erweiterung liefert Ihnen sofort einen Budgetplan oder eine alternative Empfehlung, wie Sie sich den Einkauf am besten leisten können!",
+  "visualizeTitle": "Sofortige Empfehlungen erhalten",
+  "visualizeDescription": "Erhalten Sie sofortiges Feedback, wie Sie es sich am besten leisten können. Maßgeschneiderte Live-Finanzberatung begleitet Sie auf jeder Seite, die Sie besuchen.",
+  "parametersTitle": "Ein einfaches Ergebnis",
+  "parametersDescription": "Große Anschaffungen beinhalten eine komplexe Reihe von Variablen. Hier werden sie auf 3 Parameter vereinfacht: monatliche Ersparnis, Preis und Kaufdatum. Dies sind die Parameter, die Sie am besten kontrollieren können.",
+  "extensionInputsMainTitle": "Affordify Chrome Extension",
+  "extensionInputsSubTitle": "How to start using the chrome extension",
+  "createAccount": "Create an account, it's free - no credit card needed",
+  "downloadChromeExtension": "Download Chrome Extension",
+  "chromeExtension": "Chrome Extension",
+  "fillYourInfo": "Fill your info in the form below",
+  "headToYourWebsite": "Head to your favorite website and start highlighting prices!",
+  "saveToExtension": "Save to extension"
+}

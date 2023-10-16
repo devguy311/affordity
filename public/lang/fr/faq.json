@@ -1,0 +1,21 @@
+{
+    "faqTitle": "Questions fréquemment posées",
+    "q1": "Quelle est la mission d'Affordify ?",
+    "answer1": "Notre mission est de donner aux individus les outils et les informations dont ils ont besoin pour prendre le contrôle de leur avenir financier. Grâce à la puissance de l'open banking, notre application offre un moyen transparent et sécurisé d'agréger, d'analyser et d'optimiser leurs finances données provenant de diverses sources. Nous visons à simplifier la gestion financière, à promouvoir une prise de décision éclairée et à inspirer un cheminement de toute une vie vers le bien-être financier.",
+    "q2": "Où est disponible Affordify ?",
+    "answer2": "L'application Affordify n'est disponible que dans l'UE pour le moment. Notez également que la catégorisation de vos revenus et dépenses est disponible en France uniquement pour le moment.",
+    "q3": "Mes informations sont-elles vraiment sûres et sécurisées ?",
+    "answer3": "Les API Open Banking ont été conçues sous le couvert de réglementations majeures en matière de protection des données telles que la directive révisée sur les services de paiement (PSD2), l'authentification sécurisée des clients (SCA) et le règlement général sur la protection des données (RGPD) dans le seul but de maintenir la sûreté, la sécurité et l'intégrité des informations de compte bancaire d'un utilisateur, chaque fois qu'elles sont partagées, tout en vous donnant un contrôle total de vos données à tout moment.",
+    "q4": "Vendez-vous mes données ?",
+    "answer4": "Non, toutes les données que vous saisissez sur notre site Web sont stockées en toute sécurité pour que vous puissiez y accéder facilement la prochaine fois que vous vous connectez. Il est très important pour nous que vous vous sentiez en sécurité lorsque vous utilisez affordify. Il n'y a pas de publicité sur affordify.",
+    "q5": "Je ne veux pas partager mes identifiants bancaires.",
+    "answer5": "Vous ne 'partagez' pas réellement vos identifiants. Nous N'AVONS PAS accès à votre nom d'utilisateur et à votre mot de passe bancaires.",
+    "q6": "Où puis-je demander une nouvelle fonctionnalité ?",
+    "answer6": "Chez affordify, nous sommes toujours à votre écoute et très heureux d'entendre toute idée que vous pourriez avoir pour améliorer une application existante ou en ajouter une nouvelle ! Vous pouvez nous joindre à hello@affordify.io",
+    "contactTitle": "Des précisions concernant affordify?",
+    "contactText": "N'hésitez pas à nous contacter pour plus d'informations",
+    "contactus": "Contactez nous",
+    "faq": "FAQ",
+    "faqDescription": "Vous trouverez peut-être une réponse à votre question dans notre section Questions fréquemment posées.",
+    "learnMore": "En savoir plus"
+}

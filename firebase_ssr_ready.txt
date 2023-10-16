@@ -1,0 +1,21 @@
+{
+    "hosting": {
+        "source": ".",
+        "cleanUrls": true,
+        "rewrites": [
+            {
+                "source": "**",
+                "function": "ssraffordifya7de7"
+            },
+            {
+                "source": "**/**",
+                "function": "ssraffordifya7de7"
+            }
+        ],
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ]
+    }
+}

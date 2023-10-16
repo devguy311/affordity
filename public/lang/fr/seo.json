@@ -1,0 +1,54 @@
+{
+  "home": {
+    "title": "Affordify",
+    "description": "Affordify est une application de gestion de budget pour une vue transparente et consolidée de tous vos comptes bancaires sur un tableau de bord sécurisé. "
+  },
+  "budgetRule": {
+    "title": "Budget: 50-30-20  - affordify",
+    "description": "Dépensez intelligemment: Abordez votre budget : règle de budgétisation pour vous aider à décider combien dépenser et économiser."
+  },
+  "carPurchase": {
+    "title": "20-4-10 Achat de voiture - affordify",
+    "description": "Gérez votre budget automobile sans effort grâce à notre application. Conçue pour vous aider à planifier et à économiser pour le véhicule de vos rêves. Utilisant la règle 20-40-10, notre application de budgétisation simplifie le processus."
+  },
+  "contact": {
+    "title": "Contactez Nous - Affordify",
+    "description": "Utilisez ce formulaire de contact pour nous écrire directement vos suggestions et questions."
+  },
+  "chromeExtension": {
+    "title": "Extension Chrome - affordify",
+    "description": "Améliorez la planification de vos achats grâce à notre extension Chrome. Obtenez des suggestions personnalisées sur le prix optimal, la date d'achat et les économies mensuelles nécessaires pour payer confortablement vos futurs achats grâce à notre outil d'analyse du budget."
+  },
+  "faq": {
+    "title": "Questions Fréquentes - Affordify",
+    "description": ""
+  },
+  "housingIndicator": {
+    "title": "Indicateur du logement - affordify",
+    "description": "Discover the ultimate housing data app, providing an accurate and comprehensive view of median values and charges in major US cities. Get insights into vital factors such as homeowner and renter incomes, property values, mortgage amounts, interest rates, utility charges, insurance costs, and downpayment information. Make informed decisions and gain a deeper understanding of the housing market with our powerful and user-friendly tool."
+  },
+  "investmentView": {
+    "title": "Plannificateur d'investissement - affordify",
+    "description": " Découvrez votre portefeuille d'investissement idéal et constatez par vous-même les avantages de l'investissement!"
+  },
+  "livingIndicator": {
+    "title": "Analyse du coût de la vie - affordify",
+    "description": "Comparez vos dépenses! Obtenez une vue précise et complète de la façon dont vos finances se comparent à d'autres personnes de votre pays, tranche d'âge et revenus."
+  },
+  "pricing": {
+    "title": "Abonnements - affordify",
+    "description": "Application de budget gratuite, 1 semaine offerte gratuite."
+  },
+  "privacy": {
+    "title": "Privacy - affordify",
+    "description": "Gestion du budget sécurisé, aggregation des comptes bancaire sécurisé."
+  },
+  "retirementView": {
+    "title": "Plannificateur de retraitre - affordify",
+    "description": "La planification de la retraite est une étape essentielle de la planification financière. Prenez des décisions intelligentes pour votre retraite grâce à notre application intuitive."
+  },
+  "shoppingAssistant": {
+    "title": "Assistant d'Achats - affordify",
+    "description": "Maîtrisez votre budget grâce à des graphiques intuitifs. Comprenez rapidement l'impact de votre achat sur vos finances. "
+  }
+}

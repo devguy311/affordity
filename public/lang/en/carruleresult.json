@@ -1,0 +1,23 @@
+{
+    "header": "The car purchase rule",
+    "title": "Your ideal car budget with the 20-4-10 rule",
+    "inputButton": "inputs",
+    "card1": "10% of your income to be spent on transportation...",
+    "card1a": "Transport expenses",
+    "card2": "...of this: 20% to be spent on insurance and gas...",
+    "card2a": "Insurance and gas expenses",
+    "card3": "...the remaining to be spent on car loan payments.",
+    "card3a": "Lease payments",
+    "graphTitle": "YOUR CUMULATED LEASE PAYMENTS OVER THE NEXT 4 YEARS:",
+    "breakdownTitle": "EXPENSE BREAKDOWN",
+    "breakdownsubTitle": "A comparison of your monthly expenses before and after purchase.",
+    "beforePurchase": "Before Purchase",
+    "afterPurchase": "After Purchase",
+    "regularExpense": "Regular Expenses",
+    "loaninterestPayment": "Leasing Payments",
+    "insuranceGas": "Insurance & Gas",
+    "savingsTitle": "MONTHLY SAVINGS",
+    "savingssubTitle": "A comparison of your monthly savings before and after purchase.",
+    "capitalTitle": "CAPITAL",
+    "capitalsubTitle": "A comparison of your capital before and after purchase."
+}

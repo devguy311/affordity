@@ -1,0 +1,21 @@
+{
+    "faqTitle": "Frequently Asked Questions",
+    "q1": "What is Affordify’s mission?",
+    "answer1": "Our mission is to empower individuals with the tools and insights they need to take control of their financial future. Through the power of open banking, our app provides a seamless and secure way to aggregate, analyze, and optimize their financial data from various sources. We aim to simplify financial management, promote informed decision-making, and inspire a lifelong journey towards financial well-being.",
+    "q2": "Where is Affordify available ?",
+    "answer2": "Affordify personal finance app is available in the EU only at the moment. Also note that the categorization of your income and spendings is only available in France at the moment.",
+    "q3": "Is my information safe and secure?",
+    "answer3": "Open Banking APIs were built under the guise of major data protection regulations like the revised Payment Services Directive (PSD2), Secure Customer Authentication (SCA), and the General Data Protection Regulation (GPDR—for the sole purpose of maintaining the safety, security, and integrity of a consumer’s bank account information, whenever it is shared with businesses, while also giving customers complete control of their data at all times.",
+    "q4": "Do you sell my data?",
+    "answer4": "No, any data you input on our website is stored securely for you to easily access it again the next time you log in. It is very important to us to make you feel safe when you use affordify. There are no ads on affordify. ",
+    "q5": "I don’t want to share my bank username and password.",
+    "answer5": "You are not actually 'sharing' your username and password with us, you only order your bank to share your data with us. We DO NOT have access to your bank username or password.",
+    "q6": "Where can I ask for a new feature?",
+    "answer6": "At affordify we are always listening to you, and very happy to hear any idea you might have to improve an existing app or add a new one! You can reach us at hello@affordify.io",
+    "contactTitle": "Connect with us, we’ll get back to you shortly!",
+    "contactText": "Drop us a line and we’ll help you walk through affordify applications",
+    "contactus": "Contact Us",
+    "faq": "FAQ",
+    "faqDescription": "You might have an answer for your enquiry in our frequently asked questions section",
+    "learnMore": "Learn more"
+}

@@ -1,0 +1,23 @@
+{
+    "header": "La règle des 20-4-10",
+    "title": "Votre budget auto idéal avec la règle des 20-4-10",
+    "inputButton": "Modifier",
+    "card1": "10% de votre revenu à consacrer au transport...",
+    "card1a": "Frais de transport",
+    "card2": "...de cela : 20 % à consacrer à l'assurance et à l'essence...",
+    "card2a": "Frais d'assurance et d'essence",
+    "card3": "...le reste sera consacré au remboursement du prêt automobile.",
+    "card3a": "Paiements de leasing",
+    "graphTitle": "VOS PAIEMENTS DE LEASING CUMULÉS AU COURS DES 4 PROCHAINES ANNÉES :",
+    "breakdownTitle": "RÉPARTITION DES DÉPENSES",
+    "breakdownsubTitle": "Comparaison de vos dépenses mensuelles avant et après l'achat",
+    "beforePurchase": "Avant l'achat",
+    "afterPurchase": "Après l'achat",
+    "regularExpense": "Dépenses régulières",
+    "loaninterestPayment": "Payments de leasing",
+    "insuranceGas": "Assurance et essence",
+    "savingsTitle": "EPARGNE MENSUELLE",
+    "savingssubTitle": "Comparaison de votre épargne mensuelle avant et après l'achat",
+    "capitalTitle": "CAPITAL",
+    "capitalsubTitle": "Comparaison de votre capital avant et après l'achat"
+}

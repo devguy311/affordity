@@ -1,0 +1,9 @@
+export { default as UserIcon } from "./User";
+export { default as LockIcon } from "./Lock";
+export { default as GraphIcon } from "./Graph";
+export { default as PlusIcon } from "./Plus";
+export { default as FinanceIcon } from "./Finance";
+export { default as CartIcon } from "./Cart";
+export { default as ArrowRightIcon } from "./ArrowRight";
+export { default as ChromeIcon } from "./Chrome";
+export { default as CheckIcon } from "./Check";

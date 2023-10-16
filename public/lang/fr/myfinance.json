@@ -1,0 +1,10 @@
+{
+    "SCARequiredError": "La synchronisation est suspendue - votre banque a besoin de votre consentement pour continuer. Cliquez sur 'Connection' pour reprendre la connexion.",
+    "actionNeededError": "La synchronisation a échoué - vous devez confirmer la connexion directement sur le site Web ou l'application de votre banque.",
+    "passwordExpiredError": "La synchronisation a échoué - vous devez renouveler votre mot de passe sur le site Web de votre banque.",
+    "wrongpassError": "La synchronisation a échoué - les informations d'identification que nous possédons sont invalides ou obsolètes. Cliquez sur 'Connection' pour mettre à jour vos informations d'identification.",
+    "rateLimitingError": "La synchronisation a échoué - Veuillez réessayer plus tard",
+    "websiteUnavailableError": "La synchronisation a échoué car le service est temporairement indisponible. Veuillez revenir plus tard.",
+    "bugError": "La synchronisation a échoué en raison d'une erreur de notre part. Nous surveillons les erreurs et faisons de notre mieux pour les corriger rapidement. Veuillez revenir plus tard.",
+    "defaultError": "une erreur s'est produite"
+}

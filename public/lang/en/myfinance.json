@@ -1,0 +1,10 @@
+{
+    "SCARequiredError": "Synchronization is suspended - Your bank needs your consent to proceed. Click on Connect Bank to resume the connection.",
+    "actionNeededError": "Synchronization failed - you might need to confirm the connection directly on your bank website or app.",
+    "passwordExpiredError": "Synchronization failed - you need to renew your password on your bank website.",
+    "wrongpassError": "Synchronization failed - the credentials we own are invalid or obsolete. Click on Connect Bank to update your credentials.",
+    "rateLimitingError": "Synchronization failed - Please try again later",
+    "websiteUnavailableError": "Synchronization failed because the service is temporarily unavailable. Please come back later.",
+    "bugError": "Synchronization failed because of an error from our side. We monitor errors and do our best to fix them quickly. Please come back later.",
+    "defaultError": "error occured"
+}

@@ -1,0 +1,54 @@
+{
+  "home": {
+    "title": "Affordify",
+    "description": "Affordify is a personal finance app, helping your manage your budget with a seamless and consolidated view of all your bank accounts in one secure dashboard..."
+  },
+  "budgetRule": {
+    "title": "50-30-20 Budgeting Rule - affordify",
+    "description": "Balance your wants, needs and savings. Affordify: Budgeting rule of thumb to help you decide how much to spend and save."
+  },
+  "carPurchase": {
+    "title": "20-4-10 Car Purchase Rule - affordify",
+    "description": "Manage your car budget effortlessly with our web app designed to help you plan and save for your dream vehicle. Utilizing the 20-40-10 rule, our car budgeting app simplifies the process."
+  },
+  "contact": {
+    "title": "Contact Us - Affordify",
+    "description": "Use this contact form to write your suggestion and questions directly to us."
+  },
+  "chromeExtension": {
+    "title": "Chrome extension - affordify",
+    "description": "Enhance your purchase planning with our powerful Chrome extension. Get personalized suggestions on the optimal price, purchase date, and monthly savings required to comfortably afford your future purchases."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions - Affordify",
+    "description": ""
+  },
+  "housingIndicator": {
+    "title": "Housing Indicator - affordify",
+    "description": "Discover our housing data app, providing an accurate and comprehensive view of median values and charges in major US cities. Get insights into vital factors such as homeowner and renter incomes, property values, mortgage amounts, interest rates, utility charges, insurance costs, and downpayment information. "
+  },
+  "investmentView": {
+    "title": "Investment planner - affordify",
+    "description": "Explore a world of personalized investment scenarios with our web app. Discover customized investment options and tailored strategies based on your unique preferences. Our investment planning tool offers interactive simulations and algorithmic analysis, helping you make informed decisions for your financial future."
+  },
+  "livingIndicator": {
+    "title": "Living Cost Indicator - affordify",
+    "description": "Gain valuable insights into your financial standing with our web app. Discover how your income, savings, and rent compare to others in your age range, income bracket, and country. Our comprehensive benchmarking tool provides accurate and personalized analysis, allowing you to assess your financial health with confidence. "
+  },
+  "pricing": {
+    "title": "Subscription - affordify",
+    "description": "free budgeting app, one week free trial, famil budgeting app"
+  },
+  "privacy": {
+    "title": "Privacy - affordify",
+    "description": "Gestion du budget sécurisé, aggregation des comptes bancaire sécurisé."
+  },
+  "retirementView": {
+    "title": "Retirement planner - affordify",
+    "description": "Secure your retirement with our web app's personalized retirement investment plan. Our comprehensive retirement planning tool offers a customized approach tailored to your unique needs. Explore retirement savings projections, individualized investment strategies, and expert advice to optimize your retirement portfolio. "
+  },
+  "shoppingAssistant": {
+    "title": "Shopping assistant - affordify",
+    "description": "Make informed purchase decisions with our intuitive web app. By entering your financial information and details about your desired purchase, such as price, purchase date, and financing option, our tool generates intuitive graphs and provides personalized recommendations. Discover the optimal purchase price, date, or monthly savings required to comfortably afford your desired purchase."
+  }
+}

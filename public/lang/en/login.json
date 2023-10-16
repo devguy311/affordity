@@ -1,0 +1,16 @@
+{
+    "email": "Email Address",
+    "password": "Password",
+    "emptyEmail": "Email cannot be empty",
+    "emptyPassword": "Password cannot be empty",
+    "loginTitle": "Hello",
+    "logingsubTitle": "Sign in your affordify account",
+    "forgotPwd": "Forgot password?",
+    "loginButton": "Login to affordify",
+    "googleLogin": "Log in with Google",
+    "noAccountButton": "Don't have an account yet?",
+    "signUp": "Sign Up",
+    "error1": "The user does not exist, create an account!",
+    "error2": "Invalid e-mail",
+    "error3": "Invalid password"
+}

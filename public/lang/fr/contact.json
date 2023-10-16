@@ -1,0 +1,14 @@
+{
+    "title": "Contactez nous !",
+    "fullname": "Nom complet",
+    "fullnamePlaceholder": "Entrez votre nom",
+    "email": "E-mail",
+    "emailPlaceholder": "Entrez votre email",
+    "message": "Votre message",
+    "messagePlaceholder": "Entrez votre message",
+    "checkbox": "Recevoir des courriels d'Affordify sur les mises à jour de produits, les nouvelles, et événements. Vous pouvez vous désinscrire à tout moment. Politique de confidentialité",
+    "submitButton": "Envoyer",
+    "faqText": "Vous trouverez peut-être une réponse à votre question dans notre section des questions fréquemment posées.",
+    "emailaffordify": "Email",
+    "learnmore": "En savoir plus"
+}
